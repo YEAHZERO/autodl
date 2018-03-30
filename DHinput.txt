@@ -1,0 +1,11 @@
+FTP nick=none
+FTP pass=none
+FTP watch dir=none
+Rutorrent nick=
+Rutorrent pass=
+Link to rutorrent=
+Local watch dir=none
+IRC nick=
+IRC server=irc.digitalhive.org
+Bot name=DH
+Announce channel=#DH.announce

@@ -1,0 +1,18 @@
+FTP nick=none
+FTP pass=none
+FTP watch dir=none
+Rutorrent nick=none
+Rutorrent pass=none
+Link to rutorrent=none
+Local watch dir=
+IRC nick=
+IRC server=irc.tehconnection.eu
+Bot name=justine
+Announce channel=#tehconnection
+Authkey=
+Torrentpass=
+Site nick=
+IRC key=
+IRC auth=
+Max size=
+

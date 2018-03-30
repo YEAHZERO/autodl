@@ -1,0 +1,15 @@
+FTP nick=none
+FTP pass=none
+FTP watch dir=none
+Rutorrent nick=
+Rutorrent pass=
+Link to rutorrent=
+Local watch dir=none
+IRC nick=
+IRC server=irc.scratch-network.net
+Bot name=Drone
+Announce channel=#red-announce
+Authkey=
+Torrentpass=
+Site nick=
+IRC key=
